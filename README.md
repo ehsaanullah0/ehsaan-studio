@@ -1,5 +1,6 @@
 <p align="center">
-<img width="1348" height="545" alt="{740339F9-ADCA-45E0-8826-8419F86CBF67}" src="https://github.com/user-attachments/assets/dcf92bf1-29a3-4d53-8b91-e3f733a0a6d3" />
+  
+[<img width="1348" height="545" alt="{740339F9-ADCA-45E0-8826-8419F86CBF67}" src="https://github.com/user-attachments/assets/dcf92bf1-29a3-4d53-8b91-e3f733a0a6d3" />](https://ehsaanullah0.github.io/ehsaanplay/)
 </p>
 
 <div align="center">
@@ -10,10 +11,9 @@
   <strong>A little corner of the internet built by Ehsaan ULLAH.</strong><br>
   Projects, experiments, useful discoveries, random ideas & things worth keeping.
 </p>
-</div>
-    
+
 # THE HUB OF ALL EXPERIMENTS
-# 📌[**EHSAAN.ODOO.COM**](https://ehsaan.odoo.com/)
+[<img width="400" height="75" alt="707387561-76f72af3-f7e7-427b-803b-1c0e46a1f831-removebg-preview" src="https://github.com/user-attachments/assets/dcfb4006-0954-43cb-a4fa-7eeb624a9f58" />](https://ehsaan.odoo.com)
 
 </div>
 
