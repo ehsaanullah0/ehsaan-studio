@@ -214,7 +214,8 @@ The website is continuously being updated, experimented with, redesigned,
 and [e](https://youtu.be/Jn02bLAlal0)xpanded.
 </p>
 
-## SUPPORT THE PROJECT [CLICK NOW](https://ehsaan.odoo.com/support)
+<p align="center">
+<img width="350" height="68" alt="btn-support-ehsaanplay" src="https://github.com/user-attachments/assets/14448191-9d74-4c6f-bab4-d412c9efbb34" />
 
 <p align="center">
   <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
