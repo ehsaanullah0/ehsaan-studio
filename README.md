@@ -165,17 +165,6 @@ It's simply a list of things I've found useful enough to keep around.
 
 ---
 
-[<img width="1796" height="876" alt="image" src="https://github.com/user-attachments/assets/33acd459-dda3-43d9-8e2b-2955dcfdfeac" />
-](https://github.com/ehsaanullah0/ehsaanplay)
-[<img width="1795" height="876" alt="image" src="https://github.com/user-attachments/assets/a76c3153-e97a-4102-985b-3248261d6524" />
-](https://github.com/ehsaanullah0/ehsaanqr)
-[<img width="1796" height="876" alt="image" src="https://github.com/user-attachments/assets/4ab30f86-f7b9-4138-b91b-0d367864bbab" />
-](https://github.com/ehsaanullah0/ehsaanflow)
-[<img width="1796" height="876" alt="image" src="https://github.com/user-attachments/assets/13b1c6e0-ccc7-4334-9476-8bd2aaf5d3a9" />
-](https://github.com/ehsaanullah0/ehsaancompress)
-
----
-
 # 🛡️ PRIVACY CORNER
 
 > [!CAUTION]
